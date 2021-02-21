@@ -14,8 +14,6 @@ This code contains a new way to generate 3d bounding box of  object.
 6. make
 7. ./new_cuboid_method_cpp dataset_sequence
 
-
-#3d bounding box model:
 ![image2](https://github.com/aibo-kit/new_3dbbox_generation_method/blob/main/image1%20(2).png)
 
 ![image3](https://github.com/aibo-kit/new_3dbbox_generation_method/blob/main/image2%20(2).png)
