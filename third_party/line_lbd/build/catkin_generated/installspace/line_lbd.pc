@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: line_lbd
+Description: Description of line_lbd
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lline_lbd_lib
+Requires: cmake_modules roscpp

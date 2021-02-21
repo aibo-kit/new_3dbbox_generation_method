@@ -1,0 +1,8 @@
+prefix=/home/aibo/Benchun/new_cuboid_method_cpp/third_party/line_lbd/build/devel
+
+Name: line_lbd
+Description: Description of line_lbd
+Version: 0.0.0
+Cflags: -I/home/aibo/Benchun/new_cuboid_method_cpp/third_party/line_lbd/include
+Libs: -L${prefix}/lib -lline_lbd_lib
+Requires: cmake_modules roscpp
